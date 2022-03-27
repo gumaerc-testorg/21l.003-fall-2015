@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 63af19fb-683a-179d-8ac1-a9877b0a533b
 resourcetype: Document
 title: 'Topics for essay #2'
 uid: 1053cae1-191a-5ccb-a59c-7dcd3d0dce41
