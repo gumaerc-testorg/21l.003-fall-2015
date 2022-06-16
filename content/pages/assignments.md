@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,13 +11,13 @@ uid: 63af19fb-683a-179d-8ac1-a9877b0a533b
 Essays
 ------
 
-[First Essay Topics (PDF)]({{< baseurl >}}/resources/mit21l_003f15_firstesaytop)
+{{% resource_link b9d5e2fc-b37c-33f1-9cb4-3cc9d5fc1380 "First Essay Topics (PDF)" %}}
 
-[Second Essay Topics (PDF)]({{< baseurl >}}/resources/mit21l_003f15_secondesayto)
+{{% resource_link 1053cae1-191a-5ccb-a59c-7dcd3d0dce41 "Second Essay Topics (PDF)" %}}
 
-[Guidelines for All Essays (PDF)]({{< baseurl >}}/resources/mit21l_003f15_guidelineses)
+{{% resource_link ace5d5b5-d8bd-48b2-5efb-dc3d655690f2 "Guidelines for All Essays (PDF)" %}}
 
-[Advice on Writing (PDF)]({{< baseurl >}}/resources/mit21l_003f15_advicewritin)
+{{% resource_link 4056653c-361d-666f-7050-9fb432397c5b "Advice on Writing (PDF)" %}}
 
 Assessment of Writing
 ---------------------

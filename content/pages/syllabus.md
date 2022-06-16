@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, student work, class rules, grading, the Writing and Communications
+  Center at MIT, use of external sources, and the literature faculty policy on plagiarism.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
