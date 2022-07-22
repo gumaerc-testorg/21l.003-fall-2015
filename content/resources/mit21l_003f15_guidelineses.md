@@ -5,6 +5,7 @@ file: /courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/ace5d5b5d8bd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Guidelines for all essays
 uid: ace5d5b5-d8bd-48b2-5efb-dc3d655690f2
 ---
 Guidelines for writing essays for the course.
-

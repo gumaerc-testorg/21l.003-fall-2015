@@ -5,6 +5,7 @@ file: /courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/b9d5e2fcb37c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Topics for essay #1'
 uid: b9d5e2fc-b37c-33f1-9cb4-3cc9d5fc1380
 ---
 Potential topics for the first essay assignment of the course.
-

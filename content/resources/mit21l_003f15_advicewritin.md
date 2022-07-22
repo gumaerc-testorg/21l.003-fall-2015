@@ -5,6 +5,7 @@ file: /courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/4056653c361d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Advice on writing
 uid: 4056653c-361d-666f-7050-9fb432397c5b
 ---
 Advice on writing.
-
