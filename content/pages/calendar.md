@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, readings, and oral
+  report topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: d0685f70-4cef-b8f2-1027-e0e6e4d90c4d
 ---
@@ -112,7 +116,7 @@ The _Hidalgo_ in the class system of Renaissance Spain; the concept of "Clean Bl
 _Gulliver's Travels_, Parts 1 and 4 ("A Voyage to Lilliput" and "A Voyage to the Houyhnhnms")
 {{< tdclose >}}
 {{< tdopen >}}
-Jonathan Swift's politics; Whigs and Tories in early 18th century Britain and Ireland; Jacobitism
+Jonathan Swift's politics; Whigs and Tories in early 18{{< sup "th" >}} century Britain and Ireland; Jacobitism
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +164,7 @@ The search for the Northwest Passage
 _Frankenstein_ (continued)
 {{< tdclose >}}
 {{< tdopen >}}
-Humphry Davy; the study of chemistry and the life sciences at the start of the 19th Century
+Humphry Davy; the study of chemistry and the life sciences at the start of the 19{{< sup "th" >}} Century
 {{< tdclose >}}
 
 {{< trclose >}}
