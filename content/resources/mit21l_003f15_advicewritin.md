@@ -2,6 +2,7 @@
 content_type: resource
 description: Advice on writing.
 file: /courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/4056653c361d666f70509fb432397c5b_MIT21L_003F15_AdviceWritin.pdf
+file_size: 676882
 file_type: application/pdf
 learning_resource_types:
 - Assignments
