@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines for writing essays for the course.
-file: /ol-ocw-studio-app/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/ace5d5b5d8bd48b25efbdc3d655690f2_MIT21L_003F15_GuidelinesEs.pdf
+file: /courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/ace5d5b5d8bd48b25efbdc3d655690f2_MIT21L_003F15_GuidelinesEs.pdf
 file_size: 208502
 file_type: application/pdf
 learning_resource_types:
