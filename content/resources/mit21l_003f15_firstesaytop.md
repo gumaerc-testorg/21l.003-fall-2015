@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Potential topics for the first essay assignment of the course.
-file: /courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/b9d5e2fcb37c33f19cb43cc9d5fc1380_MIT21L_003F15_FirstEsayTop.pdf
+file: /ol-ocw-studio-app/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/b9d5e2fcb37c33f19cb43cc9d5fc1380_MIT21L_003F15_FirstEsayTop.pdf
 file_size: 115100
 file_type: application/pdf
 learning_resource_types:
